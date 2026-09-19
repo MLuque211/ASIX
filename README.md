@@ -1,13 +1,10 @@
-# ASIX, perfil ciberseguretat
-
-
-## Hub d'Estudi i Desenvolupament
+# Hub d'Estudi i Desenvolupament
 
 Repositori centralitzat per a la gestió de l'evolució tècnica, apunts d'arquitectura, exercicis pràctics i projectes.
 
 ---
 
-### Tecnologies i Ecosistemes
+## Tecnologies i Ecosistemes
 
 * **Llenguatges:** *(Pròximament)*
 * **Arquitectura:** *(Pròximament)*
@@ -15,7 +12,7 @@ Repositori centralitzat per a la gestió de l'evolució tècnica, apunts d'arqui
 
 ---
 
-### Estructura del Repositori
+## Estructura del Repositori
 
 | Directori | Descripció |
 | :--- | :--- |
