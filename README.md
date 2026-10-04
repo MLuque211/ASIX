@@ -6,7 +6,7 @@ Repositori centralitzat per a la gestió de l'evolució tècnica, apunts d'arqui
 
 ## Tecnologies i Ecosistemes
 
-* **Llenguatges:** *(Pròximament)*
+* **Llenguatges:** .md / html. / 
 * **Arquitectura:** *(Pròximament)*
 * **Eines i DevOps:** *(Pròximament)*
 
