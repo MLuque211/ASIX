@@ -16,9 +16,7 @@ Repositori centralitzat per a la gestió de l'evolució tècnica, apunts d'arqui
 
 | Directori | Descripció |
 | :--- | :--- |
-| [`/docs`](./docs) | Apunts, resums i conceptes |
-| [`/exercises`](./exercises) | Reptes i exercicis pràctics |
-| [`/src`](./src) | Projectes complets |
-| [`/resources`](./resources) | Recursos gràfics, diagrames i plantilles d'estudi |
+| [`/assignatures`](./md) | Apunts, resums i conceptes |
+| [`/exercicis`](.md/.pdf) | Reptes i exercicis pràctics |
 
 ---
